@@ -1,6 +1,6 @@
 DCEU:
   - ^Man of Steel$ {{2013}}
-  - ^Batman v Superman.? Dawn of Justice$ {{2016}}
+  - ^Batman (v.?|vs.?) Superman.? Dawn of Justice$ {{2016}}
   - ^Suicide Squad$ {{2016}}
   - ^Wonder Woman$ {{2017}}
   - ^Justice League$ {{2017}}
