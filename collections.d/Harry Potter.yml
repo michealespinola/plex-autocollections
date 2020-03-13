@@ -1,5 +1,5 @@
 Harry Potter:
-  - ^Harry Potter and the Philosopher's Stone$ {{2001}}
+  - ^Harry Potter and the Philosopher.?s Stone$ {{2001}}
   - ^Harry Potter and the Chamber of Secrets$ {{2002}}
   - ^Harry Potter and the Prisoner of Azkaban$ {{2004}}
   - ^Harry Potter and the Goblet of Fire$ {{2005}}
@@ -8,4 +8,4 @@ Harry Potter:
   - ^Harry Potter and the Deathly Hallows. Part 1$ {{2010}}
   - ^Harry Potter and the Deathly Hallows. Part 2$ {{2011}}
   - ^Fantastic Beasts and Where to Find Them$ {{2016}}
-  - ^Fantastic Beasts. The Crimes of Grindelwald$ {{2018}}
+  - ^Fantastic Beasts.? The Crimes of Grindelwald$ {{2018}}

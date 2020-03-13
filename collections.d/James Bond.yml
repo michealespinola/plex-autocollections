@@ -1,10 +1,10 @@
 James Bond:
-  - ^Dr. No$ {{1962}}
+  - ^Dr.? No$ {{1962}}
   - ^From Russia with Love$ {{1963}}
   - ^Goldfinger$ {{1964}}
   - ^Thunderball$ {{1965}}
   - ^You Only Live Twice$ {{1967}}
-  - ^On Her Majesty's Secret Service$ {{1969}}
+  - ^On Her Majesty.?s Secret Service$ {{1969}}
   - ^Diamonds Are Forever$ {{1971}}
   - ^Live and Let Die$ {{1973}}
   - ^The Man with the Golden Gun$ {{1974}}
