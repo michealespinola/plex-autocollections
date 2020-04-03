@@ -1,0 +1,5 @@
+Riddick:
+    - ^(The Chronicles of Riddick.?)? ?Pitch Black$ {{2000}}
+    - ^(The Chronicles of Riddick.?)? ?Dark Fury$ {{2004}}
+    - ^The Chronicles of Riddick$ {{2004}}
+    - ^Riddick$ {{2013}}
