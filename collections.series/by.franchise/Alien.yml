@@ -2,6 +2,6 @@ Alien:
   - ^Alien$ {{1979}}
   - ^Aliens$ {{1986}}
   - ^Alien(³| ?3)$ {{1992}}
-  - ^Alien Resurrection$ {{1997}}
+  - ^Alien.? Resurrection$ {{1997}}
   - ^Prometheus$ {{2012}}
   - ^Alien.? Covenant$ {{2017}}
