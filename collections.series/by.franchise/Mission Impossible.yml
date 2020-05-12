@@ -1,0 +1,7 @@
+Mission Impossible:
+  - ^Mission.? Impossible$ {{1996}}
+  - ^Mission.? Impossible (II|2)$ {{2000}}
+  - ^Mission.? Impossible (III|3)$ {{2006}}
+  - ^Mission.? Impossible - Ghost Protocol$ {{2011}}
+  - ^Mission.? Impossible - Rogue Nation$ {{2015}}
+  - ^Mission.? Impossible - Fallout$ {{2018}}
