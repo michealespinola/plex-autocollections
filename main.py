@@ -75,9 +75,9 @@ def process_movies(movies, medium, collection):
             process_movies(movie, medium, collection)
         else:
             year_regex = None
-            for match in re.findall(r"\{\{((?:\d+\|?)+)\}\}", movie):
-                year_regex = match
-                movie = re.sub(r"\s+\{\{((\d+\|?)+)\}\}", "", movie)
+            for match in re.findall(r"\{\{((?:\s?\d+\s?\|?)+)\}\}", movie):
+                year_regex = match.strip()
+                movie = re.sub(r"\s+\{\{((\s?\d+\s?\|?)+)\}\}", "", movie)
 
             regex = re.compile(movie, re.IGNORECASE)
             if re.search(regex, medium.title):
@@ -93,7 +93,7 @@ def process_movies(movies, medium, collection):
             movie.addCollection(collection)
 
 def read_collection(filename):
-    try:
+    if ((os.path.isfile(filename) > 0) and (os.path.getsize(filename) > 0)):
         with (open(filename, "r")) as stream:
             collections.update(yaml.load(stream, Loader=yaml.SafeLoader))
             print(Green + 'Reading ' + filename + '...' + Default)
@@ -101,11 +101,10 @@ def read_collection(filename):
                 for k, v in collections.items():
                     print(Blue, k, "->", v, Default)
                 print(Red, collections, Default)
-    except FileNotFoundError:
+    else:
         print()
-        print(Red + filename + Blue, 'does not exist. Please recheck filename.' + Default)
+        print(Red + filename + Blue, 'is missing or empty. Skipping...' + Default)
         print()
-        exit()
 
 print()
 collections = {}        # create empty dictionary
