@@ -1,0 +1,5 @@
+Batman (1989):
+  - ^Batman$ {{1989}}
+  - ^Batman Returns$ {{1992}}
+  - ^Batman Forever$ {{1995}}
+  - ^Batman (&|and) Robin$ {{1997}}
