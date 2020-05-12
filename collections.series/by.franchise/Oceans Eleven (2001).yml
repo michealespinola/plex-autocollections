@@ -1,5 +1,5 @@
 Ocean's Eleven (2001):
-  - ^Ocean's Eleven$ {{2001}}
-  - ^Ocean's Twelve$ {{2004}}
-  - ^Ocean's Thirteen$ {{2007}}
-  - ^Ocean's Eight$ {{2018}}
+  - ^Ocean.?s Eleven$ {{2001}}
+  - ^Ocean.?s Twelve$ {{2004}}
+  - ^Ocean.?s Thirteen$ {{2007}}
+  - ^Ocean.?s Eight$ {{2018}}
