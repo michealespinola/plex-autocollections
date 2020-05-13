@@ -10,3 +10,8 @@ subdirectory                   | description
 [by.actor](./by.actor)         | Series all staring the same actor
 [by.director](./by.director)   | Series all made by the same director
 [by.franchise](./by.franchise) | Series all within the same franchise or universe
+
+#### Usage examples:
+
+    python3 main.py collections.series/by.franchise/*.yml
+    python3 main.py collections.series/by.franchise/Marvel_Cinematic_Universe.yml
