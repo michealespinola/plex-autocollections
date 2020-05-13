@@ -1,0 +1,6 @@
+Ip Man:  
+  - ^Ip Man$ {{2008}}
+  - ^Ip Man 2(.? Legend of the Grandmaster)?$ {{2010}}
+  - ^Ip Man 3$ {{2015}}
+  - ^Master Z.? Ip Man Legacy$ {{2018}}
+  - ^Ip Man 4(.? The Finale)?$ {{2019}}
