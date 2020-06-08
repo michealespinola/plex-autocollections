@@ -1,0 +1,6 @@
+Jurassic Park:
+  - ^Jurassic Park$ {{1993}}
+  - ^The Lost World.? Jurassic Park$ {{1997}}
+  - ^Jurassic Park III$ {{2001}}
+  - ^Jurassic World$ {{2015}}
+  - ^Jurassic World.? Fallen Kingdom$ {{2018}}

@@ -1,0 +1,5 @@
+Scary Movie:
+  - ^Scary Movie$ {{2000}}
+  - ^Scary Movie 2$ {{2001}}
+  - ^Scary Movie 3$ {{2003}}
+  - ^Scary Movie 4$ {{2006}}

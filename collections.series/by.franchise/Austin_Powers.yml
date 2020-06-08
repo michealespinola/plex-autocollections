@@ -1,0 +1,4 @@
+Austin Powers:
+  - ^(Austin Powers.?)? ?International Man of Mystery$ {{1997}}
+  - ^(Austin Powers.?)? ?The Spy Who Shagged Me$ {{1999}}
+  - ^Austin Powers in Goldmember$ {{2002}}

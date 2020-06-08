@@ -1,0 +1,9 @@
+Blade Runner:
+  - ^Blade Runner$ {{1982}}
+  - ^Blade Runner .?The Final Cut.?$ {{1982}}
+  - ^Blade Runner .?The Ultimate Cut.?$ {{1982}}
+  - ^Blade Runner .?US Theatrical Cut.?$ {{1982}}
+  - ^Blade Runner 2049$ {{2017}}
+  - ^(Blade Runner.? )?Black Out 2022$ {{2017}}
+  - ^(Blade Runner.? )?2036.? Nexus Dawn$ {{2017}}
+  - ^(Blade Runner.? )?2048.? Nowhere to Run$ {{2017}}

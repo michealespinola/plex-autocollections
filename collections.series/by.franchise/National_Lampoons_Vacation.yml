@@ -1,0 +1,4 @@
+National Lampoon's Vacation:
+  - ^National Lampoon.?s Vacation$ {{1983}}
+  - ^National Lampoon.?s European Vacation$ {{1985}}
+  - ^National Lampoon.?s Christmas Vacation$ {{1989}}

@@ -1,0 +1,8 @@
+Monty Python:
+  - ^(Monty Python.?s)? ?And Now for Something Completely Different$ {{1971}}
+  - ^Monty Python and the Holy Grail$ {{1975}}
+  - ^(Monty Python.?s)? ?Life of Brian$ {{1979}}
+  - ^(Monty Python.?s)? ?The Meaning of Life$ {{1983}}
+  - ^Time Bandits$ {{1981}}
+  - ^Yellowbeard$ {{1983}}
+  - ^The Adventures of Baron Munchausen$ {{1988}}

@@ -1,0 +1,4 @@
+Beverly Hills Cop:
+  - ^Beverly Hills Cop$ {{1984}}
+  - ^Beverly Hills Cop (2|II)$ {{1987}}
+  - ^Beverly Hills Cop (2|II)$ {{1994}}
